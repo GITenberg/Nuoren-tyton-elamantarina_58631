@@ -1,10 +1,13 @@
 _repo: Nuoren-tyton-elamantarina_58631
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Löfgren, Elma
     gutenberg_agent_id: '50064'
     url: http://www.gutenberg.org/2009/agents/50064
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Levetzow, Cornelia
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37196
     wikipedia: https://da.wikipedia.org/wiki/Cornelia_von_Levetzow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58631#Nuoren-tyton-elamantarina
 gutenberg_issued: '2019-01-06'
 gutenberg_type: Text
 identifiers:
